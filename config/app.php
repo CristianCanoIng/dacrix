@@ -1,7 +1,7 @@
 <?php
 
 	const APP_URL="http://localhost/VENTAS/";
-	const APP_NAME="Inventario y Venta Electrodom ";
+	const APP_NAME="Vidriería A... ";
 	const APP_SESSION_NAME="POS";
 
 	/*Tipos Documentos*/

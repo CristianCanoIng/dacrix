@@ -45,7 +45,7 @@ body,html{
     align-items: center;
     background: #000428;
     background: -webkit-linear-gradient(to right, #00d0ff, #000428);
-    background: linear-gradient(to right, #843500, #000a65);
+    background: linear-gradient(to right, #843500, hsl(235, 31%, 93%));
 }
 
 .main-container > .login,
@@ -218,7 +218,7 @@ body,html{
     color: #ffffff;
     width: 100%;
     font-size: 25px;
-    background-color: #011790;
+    background-color: #3d56e7;
 }
 .navLateral-body-cl,
 .navLateral-body-cr{
